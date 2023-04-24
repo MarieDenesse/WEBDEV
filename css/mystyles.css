@@ -1,0 +1,59 @@
+.common{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#scratchome{
+    background-color: antiquewhite;
+    border: 10px solid cornflowerblue;
+    text-align: center;
+    margin: 20px;
+    padding: 20px; 
+}
+
+#top{
+    text-decoration:underline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: monospace;
+    font-size: larger;
+}
+
+#caption{
+    font-size:small;
+}
+
+#list{
+    font-family: monospace;
+    font-size: larger;
+    text-align:center;
+}
+
+#category{
+    font-family:sans-serif;
+    text-decoration:underline;
+    color:lightseagreen
+}
+
+.footer{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:lightblue;
+    color:midnightblue;
+    height: 25px;
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+    left: 20px;
+}
+
+.emphasizedText{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkseagreen ;
+}
